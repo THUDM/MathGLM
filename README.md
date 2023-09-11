@@ -50,7 +50,7 @@ MathGLM achieves competitive results in comparison with the most powerful large 
 
 
 
-## Training
+## Pre-training
 
 For arithmetic tashs, run command:
 
