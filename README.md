@@ -23,5 +23,8 @@ cd MathGLM
 conda env create -f env.yml
 conda activate mathglm
 ```
+#### Note
+For arithmetic tasks and MathGLM-10B: deepspeed==0.6.0; For math word problems: deepspeed==0.9.5
+
 
 ### Dataset
