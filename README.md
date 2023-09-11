@@ -48,7 +48,17 @@ MathGLM achieves competitive results in comparison with the most powerful large 
 | MathGLM-500M  | 89.57%    | 99.41%            | 
 | MathGLM-2B  | 93.03%    | 99.71%            | 
 
-
+MathGLM-10B achieves similar performance to GPT-4 on a 5,000-samples Chinese math problem test set.
+| Model   | Arithmetic_ACC | Answer_ACC | 
+| --------- | ---------- | ---------------- | 
+| GPT-4 | -  | 59.57%            |
+| ChatGPT  | -   | 39.78%        | 
+| MathGLM-Large  | 62.00%   | 50.80%            | 
+| MathGLM-GLM-6B  | 64.60%   | 48.06%            | 
+| MathGLM-10B  | 69.08%    | 58.68%            | 
+| MathGLM-GLM2-6B  | 52.24%   | 45.48%           | 
+| MathGLM-ChatGLM-6B  | 58.52%    | 42.28%           | 
+| MathGLM-ChatGLM2-6B  | 50.38%    | 43.14%           | 
 
 ## Pre-training
 
