@@ -13,6 +13,15 @@ If you want to find the detailed introduction, Read our paper: [GPT Can Solve Ma
 # Setup
 
 ### Environment
+Our MathGLM relies on sat(SwissArmyTransformer), please ``` pip install SwissArmyTransformer ```.
 
+Download the repo and setup the environment with:
+
+```bash
+git clone https://github.com/THUDM/MathGLM.git
+cd MathGLM
+conda env create -f env.yml
+conda activate mathglm
+```
 
 ### Dataset
