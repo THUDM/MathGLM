@@ -32,3 +32,39 @@ For arithmetic tasks and MathGLM-10B: deepspeed==0.6.0; For math word problems o
 
 For arithmetic tasks, please download pre-training dataset from [MathGLM-dataset](https://cloud.tsinghua.edu.cn/d/8d9ee3e52bb54afd9c16/). For amth word problem, the reconstructed Ape210K dataset is provide in ```MathGLM_MWP/dataset/data.jsonl```
 
+
+## Inference 
+
+### Performance Reproduction
+
+MathGLM achieves competitive results in comparison with the most powerful large language model GPT-4 and ChatGPT.
+
+| Model   | ACC | RE | 
+| --------- | ---------- | ---------------- | 
+| GPT-4 | 18.84%    | -             |
+| ChatGPT  | 10.00%    | -            | 
+| MathGLM-10M  | 61.21%    | 97.83%            | 
+| MathGLM-100M  | 70.28%    | 99.28%            | 
+| MathGLM-500M  | 89.57%    | 99.41%            | 
+| MathGLM-2B  | 93.03%    | 99.71%            | 
+
+
+
+## Training
+
+For arithmetic tashs, run command:
+
+```bash
+cd MathGLM_Arithmetic
+./pretrain.sh
+```
+
+For math word problem, run command:
+
+```bash
+cd MathGLM_MWP
+./continue.sh
+```
+
+
+## Citation
