@@ -9,8 +9,13 @@ test set.
 
 If you want to find the detailed introduction, Read our paper: [GPT Can Solve Mathematical Problems Without a Calculator](https://arxiv.org/pdf/2309.03241.pdf).
 
-## Demo
+# Demo
 
+## Arithmetic Tasks
+
+
+
+## Math Word Problem
 
 
 # Setup
