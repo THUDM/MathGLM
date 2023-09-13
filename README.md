@@ -18,6 +18,18 @@ If you want to find the detailed introduction, Read our paper: [GPT Can Solve Ma
 ## Math Word Problem
 
 
+
+# Model Download 
+
+
+## Arithmetic Tasks
+
+
+
+## Math Word Problem
+
+
+
 # Setup
 
 ### Environment
