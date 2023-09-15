@@ -28,6 +28,12 @@ If you want to find the detailed introduction, Read our paper: [GPT Can Solve Ma
 
 ## Math Word Problem
 
+| Model   | Backbone Model | Model Size | Download | 
+| --------- | ---------- | ---------------- |---------------- |
+| MathGLM-Large  | GLM-Large |335M   | [THU-Cloud](https://cloud.tsinghua.edu.cn/d/8d9ee3e52bb54afd9c16/)          | 
+| MathGLM-10B  | GLM-zh-10b| 10B   | [THU-Cloud](https://cloud.tsinghua.edu.cn/d/8d9ee3e52bb54afd9c16/)           | 
+| MathGLM-ChatGLM-6B  | ChatGLM-6B| 6B    | [THU-Cloud](https://cloud.tsinghua.edu.cn/d/8d9ee3e52bb54afd9c16/)         | 
+| MathGLM-ChatGLM2-6B  | ChatGLM2-6B 6B    | [THU-Cloud](https://cloud.tsinghua.edu.cn/d/8d9ee3e52bb54afd9c16/)          | 
 
 
 # Setup
