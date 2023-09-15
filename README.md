@@ -23,7 +23,12 @@ If you want to find the detailed introduction, Read our paper: [GPT Can Solve Ma
 
 
 ## Arithmetic Tasks
-
+| Model    | Download | 
+| --------- | --------------- |
+| MathGLM-10M   |[THU-Cloud](https://cloud.tsinghua.edu.cn/d/8d9ee3e52bb54afd9c16/)          | 
+| MathGLM-100M  | [THU-Cloud](https://cloud.tsinghua.edu.cn/d/8d9ee3e52bb54afd9c16/)           | 
+| MathGLM-500M  |  [THU-Cloud](https://cloud.tsinghua.edu.cn/d/8d9ee3e52bb54afd9c16/)         | 
+| MathGLM-2B    |  [THU-Cloud](https://cloud.tsinghua.edu.cn/d/8d9ee3e52bb54afd9c16/)          | 
 
 
 ## Math Word Problem
