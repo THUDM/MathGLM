@@ -25,9 +25,9 @@ If you want to find the detailed introduction, Read our paper: [GPT Can Solve Ma
 ## Arithmetic Tasks
 | Model    | Download | 
 | --------- | --------------- |
-| MathGLM-10M   |[THU-Cloud](https://cloud.tsinghua.edu.cn/d/8d9ee3e52bb54afd9c16/)          | 
-| MathGLM-100M  | [THU-Cloud](https://cloud.tsinghua.edu.cn/d/8d9ee3e52bb54afd9c16/)           | 
-| MathGLM-500M  |  [THU-Cloud](https://cloud.tsinghua.edu.cn/d/8d9ee3e52bb54afd9c16/)         | 
+| MathGLM-10M   |  [THU-Cloud](https://cloud.tsinghua.edu.cn/d/8d9ee3e52bb54afd9c16/)          | 
+| MathGLM-100M  |  [THU-Cloud](https://cloud.tsinghua.edu.cn/d/8d9ee3e52bb54afd9c16/)          | 
+| MathGLM-500M  |  [THU-Cloud](https://cloud.tsinghua.edu.cn/d/8d9ee3e52bb54afd9c16/)          | 
 | MathGLM-2B    |  [THU-Cloud](https://cloud.tsinghua.edu.cn/d/8d9ee3e52bb54afd9c16/)          | 
 
 
@@ -35,10 +35,10 @@ If you want to find the detailed introduction, Read our paper: [GPT Can Solve Ma
 
 | Model   | Backbone Model | Model Size | Download | 
 | --------- | ---------- | ---------------- |---------------- |
-| MathGLM-Large  | GLM-Large |335M   | [THU-Cloud](https://cloud.tsinghua.edu.cn/d/8d9ee3e52bb54afd9c16/)          | 
-| MathGLM-10B  | GLM-zh-10b| 10B   | [THU-Cloud](https://cloud.tsinghua.edu.cn/d/8d9ee3e52bb54afd9c16/)           | 
-| MathGLM-ChatGLM-6B  | ChatGLM-6B| 6B    | [THU-Cloud](https://cloud.tsinghua.edu.cn/d/8d9ee3e52bb54afd9c16/)         | 
-| MathGLM-ChatGLM2-6B  | ChatGLM2-6B | 6B    | [THU-Cloud](https://cloud.tsinghua.edu.cn/d/8d9ee3e52bb54afd9c16/)          | 
+| MathGLM-Large       | GLM-Large    |335M   | [THU-Cloud](https://cloud.tsinghua.edu.cn/d/3d138deaf93441b196fb/)         | 
+| MathGLM-10B         | GLM-zh-10b   | 10B   | [THU-Cloud](https://cloud.tsinghua.edu.cn/d/bc3c7b5c46304c2b88f6/)         | 
+| MathGLM-ChatGLM-6B  | ChatGLM-6B   | 6B    | [THU-Cloud](https://cloud.tsinghua.edu.cn/d/92127e3a1b4144db8d13/)         | 
+| MathGLM-ChatGLM2-6B | ChatGLM2-6B  | 6B    | [THU-Cloud](https://cloud.tsinghua.edu.cn/d/ab7eaac27ebd4d088834/)         | 
 
 
 # Setup
