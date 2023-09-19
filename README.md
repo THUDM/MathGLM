@@ -25,10 +25,10 @@ If you want to find the detailed introduction, Read our paper: [GPT Can Solve Ma
 ## Arithmetic Tasks
 | Model    | Download | 
 | --------- | --------------- |
-| MathGLM-10M   |  [THU-Cloud](https://cloud.tsinghua.edu.cn/d/8d9ee3e52bb54afd9c16/)          | 
-| MathGLM-100M  |  [THU-Cloud](https://cloud.tsinghua.edu.cn/d/8d9ee3e52bb54afd9c16/)          | 
-| MathGLM-500M  |  [THU-Cloud](https://cloud.tsinghua.edu.cn/d/8d9ee3e52bb54afd9c16/)          | 
-| MathGLM-2B    |  [THU-Cloud](https://cloud.tsinghua.edu.cn/d/8d9ee3e52bb54afd9c16/)          | 
+| MathGLM-10M   |  [THU-Cloud](https://cloud.tsinghua.edu.cn/d/16a914d6db2a4b8f80f5/)          | 
+| MathGLM-100M  |  [THU-Cloud](https://cloud.tsinghua.edu.cn/d/a6ca369a212c4df08359/)          | 
+| MathGLM-500M  |  [THU-Cloud](https://cloud.tsinghua.edu.cn/d/c80046ec7e234be4831b/)          | 
+| MathGLM-2B    |  [THU-Cloud](https://cloud.tsinghua.edu.cn/d/cf429216289948d889a6/)          | 
 
 
 ## Math Word Problem
