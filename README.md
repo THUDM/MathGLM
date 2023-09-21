@@ -109,3 +109,12 @@ cd MathGLM_MWP
 
 
 ## Citation
+
+```
+@article{yang2023gpt,
+  title={GPT Can Solve Mathematical Problems Without a Calculator},
+  author={Yang, Zhen and Ding, Ming and Lv, Qingsong and Jiang, Zhihuan and He, Zehai and Guo, Yuyi and Bai, Jinfeng and Tang, Jie},
+  journal={arXiv preprint arXiv:2309.03241},
+  year={2023}
+}
+```
