@@ -66,6 +66,21 @@ For arithmetic tasks, please download pre-training dataset from [MathGLM-dataset
 
 ## Inference 
 
+For arithmetic tashs, you can directly execute the following command to evaluate our MathGLM on the provided test dataset that contains 9592 test cases:
+
+```bash
+cd MathGLM_Arithmetic
+./inference.sh
+```
+
+For math word problem, you can evaluate our MathGLM on the Ape210K test dataset that contains 5000 test Chinese math word problems. You can run the following  command:
+
+```bash
+cd MathGLM_MWP
+./inference.sh
+```
+
+
 ### Performance Reproduction
 
 MathGLM achieves competitive results in comparison with the most powerful large language model GPT-4 and ChatGPT.
