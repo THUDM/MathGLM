@@ -17,12 +17,13 @@ If you want to find the detailed introduction, Read our paper: [GPT Can Solve Ma
 
 ## Math Word Problem
 
-
+You can access the MathGLM-10B demo by visiting the [ModelScope](https://www.modelscope.cn/studios/ZhipuAI/MathGLM-demo/summary)
 
 # Model Download 
 
 
 ## Arithmetic Tasks
+For arithmetic tasks, we provide various model sizes for our MathGLM. If you wish to use our MathGLM for inference, you can download it from the following links.                                                                                                                    
 | Model    | Download | 
 | --------- | --------------- |
 | MathGLM-10M   |  [THU-Cloud](https://cloud.tsinghua.edu.cn/d/16a914d6db2a4b8f80f5/)          | 
@@ -32,6 +33,8 @@ If you want to find the detailed introduction, Read our paper: [GPT Can Solve Ma
 
 
 ## Math Word Problem
+For math word problem tasks, we leverage different backbone models to tune our MathGLM on the reconstructed Ape210K dataset. Here, we provide various model sizes for our MathGLM. If you wish to use our MathGLM for inference, you can download it from the following links.                                                                                                                    
+
 
 | Model   | Backbone Model | Model Size | Download | 
 | --------- | ---------- | ---------------- |---------------- |
