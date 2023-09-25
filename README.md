@@ -39,7 +39,7 @@ For math word problem tasks, we leverage different backbone models to tune our M
 | Model   | Backbone Model | Model Size | Download | 
 | --------- | ---------- | ---------------- |---------------- |
 | MathGLM-Large       | GLM-Large    |335M   | [THU-Cloud](https://cloud.tsinghua.edu.cn/d/3d138deaf93441b196fb/)         | 
-| MathGLM-10B         | GLM-zh-10b   | 10B   | [THU-Cloud](https://cloud.tsinghua.edu.cn/d/bc3c7b5c46304c2b88f6/)         | 
+| MathGLM-10B         | GLM-zh-10b   | 10B   | [THU-Cloud](https://cloud.tsinghua.edu.cn/d/bc3c7b5c46304c2b88f6/) [ModelScope](https://modelscope.cn/models/ZhipuAI/MathGLM/summary)        | 
 | MathGLM-ChatGLM-6B  | ChatGLM-6B   | 6B    | [THU-Cloud](https://cloud.tsinghua.edu.cn/d/92127e3a1b4144db8d13/)         | 
 | MathGLM-ChatGLM2-6B | ChatGLM2-6B  | 6B    | [THU-Cloud](https://cloud.tsinghua.edu.cn/d/ab7eaac27ebd4d088834/)         | 
 
