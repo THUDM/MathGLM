@@ -1,12 +1,3 @@
-# -*- encoding: utf-8 -*-
-'''
-@File    :   inference_cogview.py
-@Time    :   2021/10/09 19:41:58
-@Author  :   Ming Ding 
-@Contact :   dm18@mails.tsinghua.edu.cn
-'''
-
-# here put the import lib
 import os
 import sys
 import math
